@@ -44,4 +44,5 @@ body {
 
 .img-logo{
     width: 50%;
+    max-width: 300px;
 }
